@@ -1,0 +1,95 @@
+/*
+* {
+    border: 1px solid red;
+}
+*/
+
+
+header {
+    background-color: #19B7F6;
+    height: 15vh;
+}
+
+
+
+
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-size: max(60px, 1.2vw);
+    font-family: Arial, Helvetica, sans-serif;
+ padding: 10px 10px 10px 10px;
+
+
+}
+
+
+
+
+p {
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: max(18px, 1.2vw);
+    margin-top:10%;
+   
+}
+
+/*codigo para controlar las columnas en las secciones*/
+
+
+#principal,
+#secundario {
+    height: 70vh;
+    padding: 0%;
+   
+}
+
+
+
+
+
+footer {
+    background-color: #C2C2C2;
+    height: 22vh;
+    padding-top: 2%;
+}
+
+#social1, #social2{
+    height: 2vh;
+}
+#footerText{
+    font-size: 2vh;
+}
+#copyright{
+    font-size: 1vh;
+}
+
+
+
+
+#fondo-personalizado1 {
+    background-image: url('/home/julius/Desktop/Tarea_Bootstrap/img/1.jpeg');
+    background-size: cover; /* Ajusta la imagen al contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    min-height: 70vh; /* O '100vh' para pantalla completa */
+}
+
+#fondo-personalizado2 {
+    background-image: url('/home/julius/Desktop/Tarea_Bootstrap/img/3.jpeg');
+    background-size: cover; /* Ajusta la imagen al contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    min-height: 70vh; /* O '100vh' para pantalla completa */
+}
+
+
+
+
