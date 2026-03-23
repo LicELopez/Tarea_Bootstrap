@@ -75,7 +75,7 @@ footer {
 
 
 #fondo-personalizado1 {
-    background-image: url('/home/julius/Desktop/Tarea_Bootstrap/img/1.jpeg');
+    background-image: url('img/1.jpeg');
     background-size: cover; /* Ajusta la imagen al contenedor */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -83,7 +83,7 @@ footer {
 }
 
 #fondo-personalizado2 {
-    background-image: url('/home/julius/Desktop/Tarea_Bootstrap/img/3.jpeg');
+    background-image: url('img/3.jpeg');
     background-size: cover; /* Ajusta la imagen al contenedor */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
